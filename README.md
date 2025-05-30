@@ -16,7 +16,7 @@ This project focuses on accurately classifying power quality disturbances in ele
 
 ## 📁 Project Structure
 
-
+```bash
 ├── README.md
 ├── results
 └── src
@@ -43,7 +43,7 @@ This project focuses on accurately classifying power quality disturbances in ele
     │       └── Transient.csv
     ├── model.py
     └── train.ipynb
-
+```
 
 ---
 
