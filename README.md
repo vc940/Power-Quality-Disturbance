@@ -88,6 +88,7 @@ This project focuses on accurately classifying power quality disturbances in ele
 ---
 
 ## 📚 Power Quality Disturbances Covered
+```bash
 -Pure_Sinusoidal
 -Sag
 -Swell
@@ -107,7 +108,7 @@ This project focuses on accurately classifying power quality disturbances in ele
 -Notch
 
 ---
-
+```
 ```bash
 # Clone repository
 git clone https://github.com/vc940/Power-Quality-Disturbance.git
